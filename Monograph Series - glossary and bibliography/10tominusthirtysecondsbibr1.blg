@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: 10tominusthirtysecondsbibr1.aux
+The style file: unsrt.bst
+Database file #1: tentominusthirtyseconds.bib
+Warning--entry type for "expositiononinflationarycosmology" isn't style-file defined
+--line 247 of file tentominusthirtyseconds.bib
+You've used 38 entries,
+            1791 wiz_defined-function locations,
+            619 strings with 7105 characters,
+and the built_in function-call counts, 5820 in all, are:
+= -- 498
+> -- 176
+< -- 1
++ -- 82
+- -- 44
+* -- 168
+:= -- 935
+add.period$ -- 115
+call.type$ -- 38
+change.case$ -- 7
+chr.to.int$ -- 0
+cite$ -- 38
+duplicate$ -- 359
+empty$ -- 725
+format.name$ -- 44
+if$ -- 1381
+int.to.chr$ -- 0
+int.to.str$ -- 38
+missing$ -- 65
+newline$ -- 194
+num.names$ -- 38
+pop$ -- 223
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 88
+stack$ -- 0
+substring$ -- 25
+swap$ -- 40
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 40
+width$ -- 40
+write$ -- 416
+(There was 1 warning)
