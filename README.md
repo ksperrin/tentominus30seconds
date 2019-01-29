@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages - KSP
+## Welcome to GitHub Pages - KSP/Cosmology
 
 You can use the [editor on GitHub](https://github.com/ksperrin/tentominus30seconds/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
